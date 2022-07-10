@@ -1,2 +1,2 @@
-java -jar given-sum-0.0.1-SNAPSHOT.jar
+java -jar given-sum-0.0.1.jar
 pause

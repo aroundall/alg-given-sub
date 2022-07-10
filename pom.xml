@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.amuji.alg</groupId>
 	<artifactId>given-sum</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>given-sum</name>
 	<description>Find the combinations of the given-sum</description>
 	<properties>
